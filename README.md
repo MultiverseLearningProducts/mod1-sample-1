@@ -3,11 +3,6 @@
 # Description of our Project:
 PlantShed is one of the most popular plantstores in NYC. Not only do they sell a wide variety of houseplants and flowers, they have a local coffeeshop where customers can enjoy a fresh brew before shopping. PlantShed expanded into the e-commerce space, where customers can view the inventory of plants, flowers, and coffeebeans and shop from home.
 
-# Collaborators :
-- Judith
-- Afreen
-- Ricardo
-- Mushfika
 
 # Link of Website
 - https://plantshed-deploy.herokuapp.com/
